@@ -1,0 +1,66 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Swap",
+      "request": "launch",
+      "mainClass": "Swap",
+      "projectName": "java_345e3016"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_345e3016"
+    },
+    {
+      "type": "java",
+      "name": "ChessBoard",
+      "request": "launch",
+      "mainClass": "ChessBoard",
+      "projectName": "java_345e3016"
+    },
+    {
+      "type": "java",
+      "name": "MessageApp",
+      "request": "launch",
+      "mainClass": "MessageApp",
+      "projectName": "java_345e3016"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToeBoard",
+      "request": "launch",
+      "mainClass": "TicTacToeBoard",
+      "projectName": "java_345e3016"
+    },
+    {
+      "type": "java",
+      "name": "Practical_17",
+      "request": "launch",
+      "mainClass": "Practical_17",
+      "projectName": "java_345e3016"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "k:/Study/kenil_code/java",
+      "program": "k:/Study/kenil_code/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
